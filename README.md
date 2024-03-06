@@ -23,8 +23,8 @@ Print the prediction.
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: SHYAM S
-RegisterNumber: 212223240156
+Developed by: Santhosh T
+RegisterNumber: 212223220100
 */
 
 import numpy as np
@@ -57,7 +57,8 @@ print(f"Predicted Value:{pre}")
 ```
 
 ## Output:
-![alt text](image.png)
+![Screenshot 2024-03-06 161310](https://github.com/SanthoshThiru/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/148958618/1a53fb00-3454-4f69-849f-1a599778bd56)
+
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
